@@ -1,0 +1,14 @@
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+.thstyle{
+    background-color: gray;
+    color: aliceblue;
+    
+}
+
+.tdstyle{
+    background-color: lightgrey;
+}
